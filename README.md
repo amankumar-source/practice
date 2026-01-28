@@ -5,7 +5,7 @@ A personal workspace for small coding exercises, experiments, and quick prototyp
 ## Purpose
 This repository is used to:
 - practice Git + GitHub workflows
-- track small learning experiment
+- track small learning experiments
 - store reusable snippets and notes
 
 ## What you’ll find here
