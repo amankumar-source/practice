@@ -21,5 +21,5 @@ This repository is used to:
 ## Status
 Ongoing — updated occasionally.
 
-BY--
+BY_
 AMAN KUMAR
